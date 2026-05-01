@@ -21,7 +21,7 @@ This repository contains a Deep Learning-based solution for the automated detect
 # How to Use
 1. Clone the Repo:
 
-   git clone https://github.com/AnubhavPandey03/Cancer-Cell-Detection.git
+   git clone https://github.com/Nandana-97/Cancer-Cell-Detection-
    
 2. Install Dependencies:
    
